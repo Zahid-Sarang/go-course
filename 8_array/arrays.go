@@ -5,7 +5,7 @@ import "fmt"
 // numbered sequence of specific length
 func main() {
 
-	// var nums [4]int
+	var nums [4]int
 
 	// array length
 	// fmt.Println(len(nums))
@@ -20,7 +20,7 @@ func main() {
 	// fmt.Println(nums)
 
 	// 2d array
-	nums := [2][2]int{{3, 4}, {5, 6}}
+	// nums := [2][2]int{{3, 4}, {5, 6}}
 	fmt.Println(nums)
 
 	// - fixed size, that is predictable
